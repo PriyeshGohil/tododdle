@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/PriyeshGohil/tododdle/issues"
   },
-  "homepage": "https://github.com/PriyeshGohil/tododdle#readme"
+  "homepage": "https://github.com/PriyeshGohil/tododdle#readme",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "handlebars": "^4.0.5",
+    "hbs": "^4.0.0"
+  }
 }
